@@ -4,6 +4,7 @@ from my_helpers import myPrint,         \
                        headerPrint,     \
                        subHeaderPrint   # Some simple text rendering functions
                        
+#------------------------------ Question #1 ------------------------------------
 
 # Udacity text:
     # Given two strings s and t, determine whether some anagram of t is as

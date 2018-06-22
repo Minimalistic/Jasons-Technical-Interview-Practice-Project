@@ -40,7 +40,4 @@ def subHeaderPrint(x):
         print('')
     else:
         print(x)
-
-# def divLinePrint():
-#     """ Prints a simple horizontal dividing line 80 characters long. """
-#     print(80*'-')
+        

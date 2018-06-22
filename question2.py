@@ -5,6 +5,7 @@ from my_helpers import myPrint,         \
                        subHeaderPrint   # Some simple text rendering functions
                        
 #------------------------------ Question #2 ------------------------------------
+
 # Udacity text:
   # Given a string a, find the longest palindromic substring contained in a. 
   # Your function definition should look like question2(a), and return a string

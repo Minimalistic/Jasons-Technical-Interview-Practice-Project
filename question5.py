@@ -3,7 +3,8 @@
 from my_helpers import myPrint,         \
                        headerPrint,     \
                        subHeaderPrint   # Some simple text rendering functions
-# Question 5 -------------------------------------------------------------------
+
+#------------------------------ Question #5 ------------------------------------
 
 # Udacity text:
     # Find the element in a singly linked list that's m elements from the end. 
@@ -14,7 +15,7 @@ from my_helpers import myPrint,         \
     # use as a representation of a node in the linked list. Return the value of 
     # the node at that position.
 
-class Node(object): # Big-O approximation is O(n^2)
+class Node(object):
     def __init__(self, data):
         self.data = data
         self.next = None

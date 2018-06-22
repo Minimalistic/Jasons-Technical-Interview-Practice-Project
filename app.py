@@ -17,7 +17,7 @@ text_menu = ('1) Seach two strings for matching substring anagrams',
              '6) Exit')
 
 def promptUser():
-    """ Display main command prompt used for interacting with program """
+    """ Displays main command prompt used for interacting with program """
 
     headerPrint(welcome_banner) # Welcome user to program
 

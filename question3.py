@@ -5,6 +5,7 @@ from my_helpers import myPrint,         \
                        subHeaderPrint   # Some simple text rendering functions
 
 #------------------------------ Question #3 ------------------------------------
+
 # Udacity text:
     # Given an undirected graph G, find the minimum spanning tree within G. 
     # A minimum spanning tree connects all vertices in a graph with the smallest
