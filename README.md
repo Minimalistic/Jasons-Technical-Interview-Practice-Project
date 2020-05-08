@@ -2,6 +2,8 @@
 
 ![Jasons Tech Interview Practice Project Cover Image](img/interview_practice_cli.gif)
 
+## Description
+
 This project's goal was to develop a set of functions written in Python that each answers a different question:
 
 1. Search two strings for matching substring anagrams
